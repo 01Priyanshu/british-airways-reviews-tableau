@@ -2,7 +2,7 @@
  
 An interactive Tableau dashboard analyzing 1,324 customer reviews of British Airways, covering ratings, service quality, and flight experience across aircraft types, routes, and time.
 
-## Dashboard Preview 
+## Dashboard Preview  
 
 ![British Airways Reviews Dashboard](dashboard-screenshot.png)
 
